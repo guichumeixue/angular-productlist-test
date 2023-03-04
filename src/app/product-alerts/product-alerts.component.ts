@@ -12,5 +12,8 @@ export class ProductAlertsComponent {
   @Output() notify=new EventEmitter();
   costructor() {}
 
-  ngOnInit() {}
+  OnInit() {
+
+
+  }
 }
